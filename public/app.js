@@ -313,7 +313,9 @@ function renderWheels() {
     return `
       <article class="wheel-card">
         <div class="wheel-visual" aria-hidden="true">
-          <span class="mini-wheel"></span>
+          ${wheel.image
+            ? `<img class="wheel-photo" src="${escapeHtml(wheel.image)}" alt="">`
+            : '<span class="mini-wheel"></span>'}
           <span class="demo-badge">${escapeHtml(status)}</span>
         </div>
         <div class="wheel-info">

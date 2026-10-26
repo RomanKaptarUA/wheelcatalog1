@@ -1,6 +1,977 @@
 {
   "brands": [
     {
+      "id": "mercedes-benz",
+      "name": "Mercedes-Benz",
+      "models": [
+        {
+          "id": "a-class",
+          "name": "A-Class",
+          "generations": [
+            {
+              "id": "a-class-w168",
+              "name": "A-Class (W168)",
+              "years": "1997–2004",
+              "wheels": []
+            },
+            {
+              "id": "a-class-w169",
+              "name": "A-Class (W169)",
+              "years": "2004–2012",
+              "wheels": []
+            },
+            {
+              "id": "a-class-w176",
+              "name": "A-Class (W176)",
+              "years": "2012–2018",
+              "wheels": []
+            },
+            {
+              "id": "a-class-w177",
+              "name": "A-Class (W177)",
+              "years": "2018–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "b-class",
+          "name": "B-Class",
+          "generations": [
+            {
+              "id": "b-class-w245",
+              "name": "B-Class (W245)",
+              "years": "2005–2011",
+              "wheels": []
+            },
+            {
+              "id": "b-class-w246",
+              "name": "B-Class (W246)",
+              "years": "2011–2018",
+              "wheels": []
+            },
+            {
+              "id": "b-class-w247",
+              "name": "B-Class (W247)",
+              "years": "2018–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "c-class",
+          "name": "C-Class",
+          "generations": [
+            {
+              "id": "c-class-w202",
+              "name": "C-Class (W202)",
+              "years": "1993–2000",
+              "wheels": []
+            },
+            {
+              "id": "c-class-w203",
+              "name": "C-Class (W203)",
+              "years": "2000–2007",
+              "wheels": []
+            },
+            {
+              "id": "c-class-w204",
+              "name": "C-Class (W204)",
+              "years": "2007–2014",
+              "wheels": []
+            },
+            {
+              "id": "c-class-w205",
+              "name": "C-Class (W205)",
+              "years": "2014–2021",
+              "wheels": []
+            },
+            {
+              "id": "c-class-w206",
+              "name": "C-Class (W206)",
+              "years": "2021–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "e-class",
+          "name": "E-Class",
+          "generations": [
+            {
+              "id": "e-class-w124",
+              "name": "E-Class (W124)",
+              "years": "1984–1995",
+              "wheels": []
+            },
+            {
+              "id": "e-class-w210",
+              "name": "E-Class (W210)",
+              "years": "1995–2002",
+              "wheels": []
+            },
+            {
+              "id": "e-class-w211",
+              "name": "E-Class (W211)",
+              "years": "2002–2009",
+              "wheels": []
+            },
+            {
+              "id": "e-class-w212",
+              "name": "E-Class (W212)",
+              "years": "2009–2016",
+              "wheels": []
+            },
+            {
+              "id": "e-class-w213",
+              "name": "E-Class (W213)",
+              "years": "2016–2023",
+              "wheels": []
+            },
+            {
+              "id": "e-class-w214",
+              "name": "E-Class (W214)",
+              "years": "2023–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "s-class",
+          "name": "S-Class",
+          "generations": [
+            {
+              "id": "s-class-w116",
+              "name": "S-Class (W116)",
+              "years": "1972–1980",
+              "wheels": []
+            },
+            {
+              "id": "s-class-w126",
+              "name": "S-Class (W126)",
+              "years": "1979–1991",
+              "wheels": []
+            },
+            {
+              "id": "s-class-w140",
+              "name": "S-Class (W140)",
+              "years": "1991–1998",
+              "wheels": []
+            },
+            {
+              "id": "s-class-w220",
+              "name": "S-Class (W220)",
+              "years": "1998–2005",
+              "wheels": []
+            },
+            {
+              "id": "s-class-w221",
+              "name": "S-Class (W221)",
+              "years": "2005–2013",
+              "wheels": []
+            },
+            {
+              "id": "s-class-w222",
+              "name": "S-Class (W222)",
+              "years": "2013–2020",
+              "wheels": []
+            },
+            {
+              "id": "s-class-w223",
+              "name": "S-Class (W223)",
+              "years": "2020–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "cla",
+          "name": "CLA",
+          "generations": [
+            {
+              "id": "cla-c117",
+              "name": "CLA (C117)",
+              "years": "2013–2019",
+              "wheels": []
+            },
+            {
+              "id": "cla-c118",
+              "name": "CLA (C118)",
+              "years": "2019–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "cls",
+          "name": "CLS",
+          "generations": [
+            {
+              "id": "cls-c219",
+              "name": "CLS (C219)",
+              "years": "2004–2010",
+              "wheels": []
+            },
+            {
+              "id": "cls-c218",
+              "name": "CLS (C218)",
+              "years": "2010–2018",
+              "wheels": []
+            },
+            {
+              "id": "cls-c257",
+              "name": "CLS (C257)",
+              "years": "2018–2023",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "cle",
+          "name": "CLE",
+          "generations": [
+            {
+              "id": "cle-c236",
+              "name": "CLE (C236)",
+              "years": "2023–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "cl-class",
+          "name": "CL-Class",
+          "generations": [
+            {
+              "id": "cl-class-c140",
+              "name": "CL-Class (C140)",
+              "years": "1992–1999",
+              "wheels": []
+            },
+            {
+              "id": "cl-class-c215",
+              "name": "CL-Class (C215)",
+              "years": "1999–2006",
+              "wheels": []
+            },
+            {
+              "id": "cl-class-c216",
+              "name": "CL-Class (C216)",
+              "years": "2006–2014",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "sl-class",
+          "name": "SL-Class",
+          "generations": [
+            {
+              "id": "sl-class-r107",
+              "name": "SL-Class (R107)",
+              "years": "1971–1989",
+              "wheels": []
+            },
+            {
+              "id": "sl-class-r129",
+              "name": "SL-Class (R129)",
+              "years": "1989–2001",
+              "wheels": []
+            },
+            {
+              "id": "sl-class-r230",
+              "name": "SL-Class (R230)",
+              "years": "2001–2011",
+              "wheels": []
+            },
+            {
+              "id": "sl-class-r231",
+              "name": "SL-Class (R231)",
+              "years": "2012–2020",
+              "wheels": []
+            },
+            {
+              "id": "sl-class-r232",
+              "name": "SL-Class (R232)",
+              "years": "2022–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "slc-slk",
+          "name": "SLC / SLK",
+          "generations": [
+            {
+              "id": "slc-slk-r170",
+              "name": "SLC / SLK (R170)",
+              "years": "1996–2004",
+              "wheels": []
+            },
+            {
+              "id": "slc-slk-r171",
+              "name": "SLC / SLK (R171)",
+              "years": "2004–2011",
+              "wheels": []
+            },
+            {
+              "id": "slc-slk-r172",
+              "name": "SLC / SLK (R172)",
+              "years": "2011–2020",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "sec",
+          "name": "SEC",
+          "generations": [
+            {
+              "id": "sec-c126",
+              "name": "SEC (C126)",
+              "years": "1981–1991",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "sel",
+          "name": "SEL",
+          "generations": [
+            {
+              "id": "sel-w108-w109",
+              "name": "SEL (W108/W109)",
+              "years": "1965–1972",
+              "wheels": []
+            },
+            {
+              "id": "sel-w116",
+              "name": "SEL (W116)",
+              "years": "1972–1980",
+              "wheels": []
+            },
+            {
+              "id": "sel-w126",
+              "name": "SEL (W126)",
+              "years": "1979–1991",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "190-w201",
+          "name": "190 (W201)",
+          "generations": [
+            {
+              "id": "190-w201-w201",
+              "name": "190 (W201)",
+              "years": "1982–1993",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "glc",
+          "name": "GLC",
+          "generations": [
+            {
+              "id": "glc-x253",
+              "name": "GLC (X253)",
+              "years": "2015–2022",
+              "wheels": []
+            },
+            {
+              "id": "glc-x254",
+              "name": "GLC (X254)",
+              "years": "2022–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "gle",
+          "name": "GLE",
+          "generations": [
+            {
+              "id": "gle-w166",
+              "name": "GLE (W166)",
+              "years": "2015–2019",
+              "wheels": []
+            },
+            {
+              "id": "gle-v167",
+              "name": "GLE (V167)",
+              "years": "2019–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "gls",
+          "name": "GLS",
+          "generations": [
+            {
+              "id": "gls-x166",
+              "name": "GLS (X166)",
+              "years": "2015–2019",
+              "wheels": []
+            },
+            {
+              "id": "gls-x167",
+              "name": "GLS (X167)",
+              "years": "2019–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "g-class",
+          "name": "G-Class",
+          "generations": [
+            {
+              "id": "g-class-w460",
+              "name": "G-Class (W460)",
+              "years": "1979–1992",
+              "wheels": []
+            },
+            {
+              "id": "g-class-w461",
+              "name": "G-Class (W461)",
+              "years": "1992–2022",
+              "wheels": []
+            },
+            {
+              "id": "g-class-w463",
+              "name": "G-Class (W463)",
+              "years": "1989–2018",
+              "wheels": []
+            },
+            {
+              "id": "g-class-w463-2018",
+              "name": "G-Class (W463, 2018–present)",
+              "years": "2018–present",
+              "wheels": [
+                {
+                  "id": "g-class-w463-2018-amg-wheel-photo",
+                  "name": "AMG cross-spoke forged wheel",
+                  "style": "Matte black with red rim flange",
+                  "sizes": [],
+                  "oemNumbers": [],
+                  "image": "/images/wheels/mercedes-g-class-amg-wheel-2022.jpg",
+                  "verified": false,
+                  "sources": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ml-class",
+          "name": "ML-Class / M-Class",
+          "generations": [
+            {
+              "id": "ml-class-w163",
+              "name": "M-Class (W163)",
+              "years": "1997–2005",
+              "wheels": []
+            },
+            {
+              "id": "ml-class-w164",
+              "name": "M-Class (W164)",
+              "years": "2005–2011",
+              "wheels": []
+            },
+            {
+              "id": "ml-class-w166",
+              "name": "M-Class (W166)",
+              "years": "2011–2015",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "gl-class",
+          "name": "GL-Class",
+          "generations": [
+            {
+              "id": "gl-class-x164",
+              "name": "GL-Class (X164)",
+              "years": "2006–2012",
+              "wheels": []
+            },
+            {
+              "id": "gl-class-x166",
+              "name": "GL-Class (X166)",
+              "years": "2012–2016",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "glk",
+          "name": "GLK",
+          "generations": [
+            {
+              "id": "glk-x204",
+              "name": "GLK (X204)",
+              "years": "2008–2015",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "amg-gt",
+          "name": "AMG GT",
+          "generations": [
+            {
+              "id": "amg-gt-c190",
+              "name": "AMG GT (C190/R190)",
+              "years": "2014–2022",
+              "wheels": []
+            },
+            {
+              "id": "amg-gt-c192",
+              "name": "AMG GT (C192)",
+              "years": "2023–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "amg-one",
+          "name": "AMG One",
+          "generations": [
+            {
+              "id": "amg-one-c298",
+              "name": "AMG One (C298)",
+              "years": "2022–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "slr-mclaren",
+          "name": "SLR McLaren",
+          "generations": [
+            {
+              "id": "slr-mclaren-c199",
+              "name": "SLR McLaren (C199/R199/Z199)",
+              "years": "2003–2010",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "sls-amg",
+          "name": "SLS AMG",
+          "generations": [
+            {
+              "id": "sls-amg-c197",
+              "name": "SLS AMG (C197/R197)",
+              "years": "2010–2014",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "mercedes-maybach-s-class",
+          "name": "Mercedes-Maybach S-Class",
+          "generations": [
+            {
+              "id": "mercedes-maybach-s-class-x222",
+              "name": "Mercedes-Maybach S-Class (X222)",
+              "years": "2014–2020",
+              "wheels": []
+            },
+            {
+              "id": "mercedes-maybach-s-class-z223",
+              "name": "Mercedes-Maybach S-Class (Z223)",
+              "years": "2021–present",
+              "wheels": []
+            }
+          ]
+        },
+        {
+          "id": "mercedes-maybach-gls",
+          "name": "Mercedes-Maybach GLS",
+          "generations": [
+            {
+              "id": "mercedes-maybach-gls-x167",
+              "name": "Mercedes-Maybach GLS (X167)",
+              "years": "2020–present",
+              "wheels": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bmw",
+      "name": "BMW",
+      "models": [
+        {
+          "id": "1-series",
+          "name": "1 Series",
+          "generations": [
+            { "id": "1-series-f20", "name": "1 Series (F20)", "years": "2011–2019", "wheels": [] },
+            { "id": "1-series-f40", "name": "1 Series (F40)", "years": "2019–2024", "wheels": [] },
+            { "id": "1-series-f70", "name": "1 Series (F70)", "years": "2024–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "2-series-coupe",
+          "name": "2 Series Coupe",
+          "generations": [
+            { "id": "2-series-coupe-f22", "name": "2 Series Coupe (F22)", "years": "2014–2021", "wheels": [] },
+            { "id": "2-series-coupe-g42", "name": "2 Series Coupe (G42)", "years": "2021–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "2-series-gran-coupe",
+          "name": "2 Series Gran Coupe",
+          "generations": [
+            { "id": "2-series-gran-coupe-f44", "name": "2 Series Gran Coupe (F44)", "years": "2019–2024", "wheels": [] },
+            { "id": "2-series-gran-coupe-f74", "name": "2 Series Gran Coupe (F74)", "years": "2024–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "2-series-active-tourer",
+          "name": "2 Series Active Tourer",
+          "generations": [
+            { "id": "2-series-active-tourer-f45", "name": "2 Series Active Tourer (F45)", "years": "2014–2021", "wheels": [] },
+            { "id": "2-series-active-tourer-u06", "name": "2 Series Active Tourer (U06)", "years": "2021–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "3-series",
+          "name": "3 Series",
+          "generations": [
+            { "id": "3-series-e21", "name": "3 Series (E21)", "years": "1975–1983", "wheels": [] },
+            { "id": "3-series-e30", "name": "3 Series (E30)", "years": "1982–1994", "wheels": [] },
+            { "id": "3-series-e36", "name": "3 Series (E36)", "years": "1990–2000", "wheels": [] },
+            { "id": "3-series-e46", "name": "3 Series (E46)", "years": "1997–2006", "wheels": [] },
+            { "id": "3-series-e90", "name": "3 Series (E90/E91/E92/E93)", "years": "2004–2013", "wheels": [] },
+            { "id": "3-series-f30", "name": "3 Series (F30/F31/F34)", "years": "2011–2019", "wheels": [] },
+            { "id": "3-series-g20", "name": "3 Series (G20/G21)", "years": "2018–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "4-series-coupe",
+          "name": "4 Series Coupe",
+          "generations": [
+            { "id": "4-series-coupe-f32", "name": "4 Series Coupe (F32)", "years": "2013–2020", "wheels": [] },
+            { "id": "4-series-coupe-g22", "name": "4 Series Coupe (G22)", "years": "2020–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "4-series-convertible",
+          "name": "4 Series Convertible",
+          "generations": [
+            { "id": "4-series-convertible-f33", "name": "4 Series Convertible (F33)", "years": "2013–2020", "wheels": [] },
+            { "id": "4-series-convertible-g23", "name": "4 Series Convertible (G23)", "years": "2020–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "4-series-gran-coupe",
+          "name": "4 Series Gran Coupe",
+          "generations": [
+            { "id": "4-series-gran-coupe-f36", "name": "4 Series Gran Coupe (F36)", "years": "2014–2020", "wheels": [] },
+            { "id": "4-series-gran-coupe-g26", "name": "4 Series Gran Coupe (G26)", "years": "2021–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "5-series",
+          "name": "5 Series",
+          "generations": [
+            { "id": "5-series-e12", "name": "5 Series (E12)", "years": "1972–1981", "wheels": [] },
+            { "id": "5-series-e28", "name": "5 Series (E28)", "years": "1981–1988", "wheels": [] },
+            { "id": "5-series-e34", "name": "5 Series (E34)", "years": "1988–1996", "wheels": [] },
+            { "id": "5-series-e39", "name": "5 Series (E39)", "years": "1995–2003", "wheels": [] },
+            { "id": "5-series-e60", "name": "5 Series (E60/E61)", "years": "2003–2010", "wheels": [] },
+            { "id": "5-series-f10", "name": "5 Series (F10/F11/F07)", "years": "2009–2017", "wheels": [] },
+            { "id": "5-series-g30", "name": "5 Series (G30/G31)", "years": "2016–2023", "wheels": [] },
+            { "id": "5-series-g60", "name": "5 Series (G60/G61)", "years": "2023–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "6-series",
+          "name": "6 Series",
+          "generations": [
+            { "id": "6-series-e24", "name": "6 Series (E24)", "years": "1976–1989", "wheels": [] },
+            { "id": "6-series-e63", "name": "6 Series (E63/E64)", "years": "2003–2010", "wheels": [] },
+            { "id": "6-series-f12", "name": "6 Series (F12/F13)", "years": "2011–2018", "wheels": [] }
+          ]
+        },
+        {
+          "id": "6-series-gran-turismo",
+          "name": "6 Series Gran Turismo",
+          "generations": [
+            { "id": "6-series-gran-turismo-g32", "name": "6 Series Gran Turismo (G32)", "years": "2017–2023", "wheels": [] }
+          ]
+        },
+        {
+          "id": "7-series",
+          "name": "7 Series",
+          "generations": [
+            { "id": "7-series-e23", "name": "7 Series (E23)", "years": "1977–1986", "wheels": [] },
+            { "id": "7-series-e32", "name": "7 Series (E32)", "years": "1986–1994", "wheels": [] },
+            { "id": "7-series-e38", "name": "7 Series (E38)", "years": "1994–2001", "wheels": [] },
+            { "id": "7-series-e65", "name": "7 Series (E65/E66)", "years": "2001–2008", "wheels": [] },
+            { "id": "7-series-f01", "name": "7 Series (F01/F02)", "years": "2008–2015", "wheels": [] },
+            { "id": "7-series-g11", "name": "7 Series (G11/G12)", "years": "2015–2022", "wheels": [] },
+            { "id": "7-series-g70", "name": "7 Series (G70)", "years": "2022–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "8-series",
+          "name": "8 Series",
+          "generations": [
+            { "id": "8-series-e31", "name": "8 Series (E31)", "years": "1989–1999", "wheels": [] },
+            { "id": "8-series-g15", "name": "8 Series (G14/G15)", "years": "2018–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "8-series-gran-coupe",
+          "name": "8 Series Gran Coupe",
+          "generations": [
+            { "id": "8-series-gran-coupe-g16", "name": "8 Series Gran Coupe (G16)", "years": "2019–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "m2",
+          "name": "M2",
+          "generations": [
+            { "id": "m2-f87", "name": "M2 (F87)", "years": "2015–2021", "wheels": [] },
+            { "id": "m2-g87", "name": "M2 (G87)", "years": "2022–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "m3",
+          "name": "M3",
+          "generations": [
+            { "id": "m3-e30", "name": "M3 (E30)", "years": "1986–1991", "wheels": [] },
+            { "id": "m3-e36", "name": "M3 (E36)", "years": "1992–1999", "wheels": [] },
+            { "id": "m3-e46", "name": "M3 (E46)", "years": "2000–2006", "wheels": [] },
+            { "id": "m3-e90", "name": "M3 (E90/E92/E93)", "years": "2007–2013", "wheels": [] },
+            { "id": "m3-f80", "name": "M3 (F80)", "years": "2014–2018", "wheels": [] },
+            { "id": "m3-g80", "name": "M3 (G80/G81)", "years": "2020–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "m4",
+          "name": "M4",
+          "generations": [
+            { "id": "m4-f82", "name": "M4 (F82/F83)", "years": "2014–2020", "wheels": [] },
+            { "id": "m4-g82", "name": "M4 (G82/G83)", "years": "2020–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "m5",
+          "name": "M5",
+          "generations": [
+            { "id": "m5-e28", "name": "M5 (E28)", "years": "1984–1988", "wheels": [] },
+            { "id": "m5-e34", "name": "M5 (E34)", "years": "1988–1995", "wheels": [] },
+            { "id": "m5-e39", "name": "M5 (E39)", "years": "1998–2003", "wheels": [] },
+            { "id": "m5-e60", "name": "M5 (E60/E61)", "years": "2005–2010", "wheels": [] },
+            { "id": "m5-f10", "name": "M5 (F10)", "years": "2011–2016", "wheels": [] },
+            { "id": "m5-f90", "name": "M5 (F90)", "years": "2017–2023", "wheels": [] },
+            { "id": "m5-g90", "name": "M5 (G90/G99)", "years": "2024–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "m6",
+          "name": "M6",
+          "generations": [
+            { "id": "m6-e24", "name": "M6 (E24)", "years": "1983–1989", "wheels": [] },
+            { "id": "m6-e63", "name": "M6 (E63/E64)", "years": "2005–2010", "wheels": [] },
+            { "id": "m6-f12", "name": "M6 (F06/F12/F13)", "years": "2012–2018", "wheels": [] }
+          ]
+        },
+        {
+          "id": "m8",
+          "name": "M8",
+          "generations": [
+            { "id": "m8-f91", "name": "M8 (F91/F92/F93)", "years": "2019–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "xm",
+          "name": "XM",
+          "generations": [
+            { "id": "xm-g09", "name": "XM (G09)", "years": "2022–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x1",
+          "name": "X1",
+          "generations": [
+            { "id": "x1-e84", "name": "X1 (E84)", "years": "2009–2015", "wheels": [] },
+            { "id": "x1-f48", "name": "X1 (F48)", "years": "2015–2022", "wheels": [] },
+            { "id": "x1-u11", "name": "X1 (U11)", "years": "2022–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x2",
+          "name": "X2",
+          "generations": [
+            { "id": "x2-f39", "name": "X2 (F39)", "years": "2018–2023", "wheels": [] },
+            { "id": "x2-u10", "name": "X2 (U10)", "years": "2023–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x3",
+          "name": "X3",
+          "generations": [
+            { "id": "x3-e83", "name": "X3 (E83)", "years": "2003–2010", "wheels": [] },
+            { "id": "x3-f25", "name": "X3 (F25)", "years": "2010–2017", "wheels": [] },
+            { "id": "x3-g01", "name": "X3 (G01)", "years": "2017–2024", "wheels": [] },
+            { "id": "x3-g45", "name": "X3 (G45)", "years": "2024–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x3-m",
+          "name": "X3 M",
+          "generations": [
+            { "id": "x3-m-f97", "name": "X3 M (F97)", "years": "2019–2024", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x4",
+          "name": "X4",
+          "generations": [
+            { "id": "x4-f26", "name": "X4 (F26)", "years": "2014–2018", "wheels": [] },
+            { "id": "x4-g02", "name": "X4 (G02)", "years": "2018–2025", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x4-m",
+          "name": "X4 M",
+          "generations": [
+            { "id": "x4-m-f98", "name": "X4 M (F98)", "years": "2019–2025", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x5",
+          "name": "X5",
+          "generations": [
+            { "id": "x5-e53", "name": "X5 (E53)", "years": "1999–2006", "wheels": [] },
+            { "id": "x5-e70", "name": "X5 (E70)", "years": "2006–2013", "wheels": [] },
+            { "id": "x5-f15", "name": "X5 (F15)", "years": "2013–2018", "wheels": [] },
+            { "id": "x5-g05", "name": "X5 (G05)", "years": "2018–2026", "wheels": [] },
+            { "id": "x5-g65", "name": "X5 (G65)", "years": "2026–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x5-m",
+          "name": "X5 M",
+          "generations": [
+            { "id": "x5-m-e70", "name": "X5 M (E70)", "years": "2009–2013", "wheels": [] },
+            { "id": "x5-m-f85", "name": "X5 M (F85)", "years": "2014–2018", "wheels": [] },
+            { "id": "x5-m-f95", "name": "X5 M (F95)", "years": "2019–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x6",
+          "name": "X6",
+          "generations": [
+            { "id": "x6-e71", "name": "X6 (E71)", "years": "2008–2014", "wheels": [] },
+            { "id": "x6-f16", "name": "X6 (F16)", "years": "2014–2019", "wheels": [] },
+            { "id": "x6-g06", "name": "X6 (G06)", "years": "2019–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x6-m",
+          "name": "X6 M",
+          "generations": [
+            { "id": "x6-m-e71", "name": "X6 M (E71)", "years": "2009–2014", "wheels": [] },
+            { "id": "x6-m-f86", "name": "X6 M (F86)", "years": "2015–2019", "wheels": [] },
+            { "id": "x6-m-f96", "name": "X6 M (F96)", "years": "2019–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "x7",
+          "name": "X7",
+          "generations": [
+            { "id": "x7-g07", "name": "X7 (G07)", "years": "2018–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "z3",
+          "name": "Z3",
+          "generations": [
+            { "id": "z3-e36-7", "name": "Z3 Roadster (E36/7)", "years": "1995–2002", "wheels": [] },
+            { "id": "z3-e36-8", "name": "Z3 Coupe (E36/8)", "years": "1998–2002", "wheels": [] }
+          ]
+        },
+        {
+          "id": "z3-m",
+          "name": "Z3 M",
+          "generations": [
+            { "id": "z3-m-roadster", "name": "Z3 M Roadster", "years": "1997–2002", "wheels": [] },
+            { "id": "z3-m-coupe", "name": "Z3 M Coupe", "years": "1998–2002", "wheels": [] }
+          ]
+        },
+        {
+          "id": "z4",
+          "name": "Z4",
+          "generations": [
+            { "id": "z4-e85", "name": "Z4 (E85/E86)", "years": "2002–2008", "wheels": [] },
+            { "id": "z4-e89", "name": "Z4 (E89)", "years": "2009–2016", "wheels": [] },
+            { "id": "z4-g29", "name": "Z4 (G29)", "years": "2018–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "z4-m",
+          "name": "Z4 M",
+          "generations": [
+            { "id": "z4-m-e85", "name": "Z4 M Roadster/Coupe (E85/E86)", "years": "2006–2008", "wheels": [] }
+          ]
+        },
+        {
+          "id": "z8",
+          "name": "Z8",
+          "generations": [
+            { "id": "z8-e52", "name": "Z8 (E52)", "years": "2000–2003", "wheels": [] }
+          ]
+        },
+        {
+          "id": "i3",
+          "name": "i3",
+          "generations": [
+            { "id": "i3-i01", "name": "i3 (I01)", "years": "2013–2022", "wheels": [] }
+          ]
+        },
+        {
+          "id": "i4",
+          "name": "i4",
+          "generations": [
+            { "id": "i4-g26", "name": "i4 (G26)", "years": "2021–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "i7",
+          "name": "i7",
+          "generations": [
+            { "id": "i7-g70", "name": "i7 (G70)", "years": "2022–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "ix",
+          "name": "iX",
+          "generations": [
+            { "id": "ix-i20", "name": "iX (I20)", "years": "2021–present", "wheels": [] }
+          ]
+        },
+        {
+          "id": "i8",
+          "name": "i8",
+          "generations": [
+            { "id": "i8-i12", "name": "i8 (I12/I15)", "years": "2014–2020", "wheels": [] }
+          ]
+        }
+      ]
+    },
+    {
       "id": "skoda",
       "name": "Škoda",
       "models": [
@@ -318,9 +1289,6 @@
         }
       ]
     },
-
-
-
     {
       "id": "volkswagen",
       "name": "Volkswagen",
