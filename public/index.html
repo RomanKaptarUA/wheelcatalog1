@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#171817">
+    <meta name="description" content="Find original wheels for your car by make, model, and year." data-i18n-content="pageDescription">
+    <title data-i18n="pageTitle">Wheelcatalog — original wheels for your car</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/" aria-label="Wheelcatalog — home">
+        <span class="brand-mark" aria-hidden="true">W</span>
+        <span>wheel<span class="brand-accent">catalog</span></span>
+      </a>
+      <button class="support-button" type="button" aria-label="Support the creator" data-i18n-aria="supportCreator">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8l1.1 1.1L12 21l7.8-7.5 1.1-1.1a5.5 5.5 0 0 0-.1-7.8Z"/></svg>
+        <span data-i18n="supportCompact">Support Creator</span>
+      </button>
+      <label class="language-control">
+        <span class="language-label" data-i18n="languageLabel">Language</span>
+        <select id="language-select" aria-label="Language" data-i18n-aria="languageLabel">
+          <option value="en">English</option>
+          <option value="uk">Українська</option>
+          <option value="ru">Русский</option>
+        </select>
+      </label>
+    </header>
+
+    <main>
+      <img class="page-wheel" src="/images/wheels/AMG%20Alloy%20Wheel.webp" alt="" aria-hidden="true">
+     
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="eyebrow-dot"></span> <span data-i18n="heroEyebrow">ORIGINAL WHEELS FOR YOUR CAR</span></p>
+          <h1 data-i18n-html="heroHeadline">Find your<br><span class="headline-accent">original</span><br>wheels<span class="title-period">.</span></h1>
+          <p class="hero-description" data-i18n="heroDescription">Browse wheels that were made for your car.</p>
+          <div class="hero-proof">
+            <span class="proof-icon" aria-hidden="true">✓</span>
+            <span data-i18n="heroProof">Original styles. Clear details.</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="finder-section" aria-labelledby="finder-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow" data-i18n="catalogEyebrow">CAR CATALOG</p>
+            <h2 id="finder-title" data-i18n="chooseCar">Choose your car</h2>
+          </div>
+          <span class="step-label"><span>01</span> <span data-i18n="startHere">START HERE</span></span>
+        </div>
+
+        <div class="finder-card">
+          <label class="select-field">
+            <span class="field-label" data-i18n="make">Make</span>
+            <span class="select-wrap">
+              <select id="brand-select" aria-label="Car make" data-i18n-aria="make" disabled>
+                <option value="">Loading…</option>
+              </select>
+              <span class="select-chevron" aria-hidden="true">⌄</span>
+            </span>
+          </label>
+          <span class="field-arrow" aria-hidden="true">→</span>
+          <label class="select-field">
+            <span class="field-label" data-i18n="model">Model</span>
+            <span class="select-wrap">
+              <select id="model-select" aria-label="Car model" data-i18n-aria="model" disabled>
+                <option value="">Select a make first</option>
+              </select>
+              <span class="select-chevron" aria-hidden="true">⌄</span>
+            </span>
+          </label>
+          <span class="field-arrow" aria-hidden="true">→</span>
+          <label class="select-field">
+            <span class="field-label" data-i18n="generation">Generation</span>
+            <span class="select-wrap">
+              <select id="generation-select" aria-label="Car generation" data-i18n-aria="generation" disabled>
+                <option value="">Select a model first</option>
+              </select>
+              <span class="select-chevron" aria-hidden="true">⌄</span>
+            </span>
+          </label>
+          <button id="search-button" class="search-button" type="button" disabled>
+            <span data-i18n="findWheels">Find wheels</span><span class="button-arrow" aria-hidden="true">↗</span>
+          </button>
+        </div>
+        <p id="status-message" class="status-message" role="status" aria-live="polite" data-i18n="loadingCatalog">Loading catalog…</p>
+      </section>
+
+      <section id="results-section" class="results-section" aria-labelledby="results-title" hidden>
+        <div class="results-heading">
+          <div>
+            <p class="eyebrow" data-i18n="yourResults">YOUR RESULTS</p>
+            <h2 id="results-title">Original wheels</h2>
+          </div>
+          <label class="search-field">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="wheel-search" type="search" placeholder="Search by name…" aria-label="Search wheels by name" data-i18n-placeholder="searchPlaceholder" data-i18n-aria="searchAria">
+          </label>
+        </div>
+        <div id="wheel-grid" class="wheel-grid"></div>
+        <p id="empty-message" class="empty-message" hidden><span data-i18n="noWheels">No wheels found.</span> <span data-i18n="tryDifferent">Try a different name.</span></p>
+      </section>
+
+    </main>
+
+    <footer class="site-footer">
+      <a class="brand footer-brand" href="/">
+        <span class="brand-mark" aria-hidden="true">W</span>
+        <span>wheel<span class="brand-accent">catalog</span></span>
+      </a>
+      <span data-i18n="footerLine">Find wheels made for your car.</span>
+      <span class="footer-note" data-i18n="footerNote">More cars coming soon</span>
+    </footer>
+  </body>
+</html>
