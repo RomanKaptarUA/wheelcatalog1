@@ -1,7 +1,7 @@
 {
   "name": "wheelcatalog1",
   "version": "1.0.0",
-  "description": "Каталог оригінальних колісних дисків за маркою та моделлю авто",
+  "description": "Довідник моделей Volkswagen з фото, характеристиками та поколіннями",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

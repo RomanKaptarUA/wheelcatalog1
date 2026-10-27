@@ -1,6 +1,6 @@
-# Wheelcatalog
+# VWCatalog
 
-A prototype catalog of original wheels by car make, model, and generation.
+A Volkswagen model guide. Choose a model or generation from the list to see a sourced overview, your own locally supplied photo when available, model generations, general ownership considerations, and planned repair-guide topics.
 
 ## Getting started
 
@@ -13,17 +13,21 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000). To run without watch mode, use `npm start`.
 
-The interface supports English (default), Ukrainian, and Russian. The selected language is saved in the browser.
+The interface supports English, Ukrainian, and Russian. Wikipedia overviews use the selected language when an article is available and otherwise fall back to English.
+
+VWCatalog is an independent guide and is not affiliated with or endorsed by Volkswagen AG. This notice clarifies the site's status but does not grant permission to use trademarks, logos, text, or photos; use materials only when you own the rights or have a license or permission.
 
 ## API
 
 - `GET /api/brands` — catalog makes.
-- `GET /api/models?brand=volkswagen` — models for a make.
+- `GET /api/models?brand=volkswagen` — Volkswagen models and generations.
+- `GET /api/vehicles/:id?language=en&generation=golf-v` — model overview, generations, vehicle category, and matching local gallery photos when present. A generation is required.
 - `GET /api/generations?model=golf` — generations for a model.
-- `GET /api/wheels?generation=golf-v` — wheel records for a generation.
 
-## Catalog data
+## Sources and limitations
 
-The dataset is in `data/catalog.json`. It includes BMW, Mercedes-Benz, Volkswagen, and Škoda models and generation names as a starting index; production years can vary by market and should be checked against the exact vehicle. Region-specific models are labeled where needed. Most generations have no wheel records yet. The Golf V design names are demo entries, intentionally marked `verified: false`: exact OEM numbers, sizes, fitment, and sources still need verification. Do not treat unverified entries as proof of factory fitment. Once verified, add sizes to `sizes`, part numbers to `oemNumbers`, source links to `sources`, and set `verified` to `true`.
+The model and generation index is in `data/catalog.json`. Model overviews come from Wikipedia's REST API and link to their source; text is attributed under CC BY-SA. Vehicle photos are never searched for or downloaded from external services. Add your own images to the folder for the matching generation under `public/images/cars/<model-id>/<generation-id>/`. For example, add `1.webp` through `4.webp` to `public/images/cars/golf/golf-v/` for up to four Golf V gallery images. WebP is recommended; `.jpg`, `.jpeg`, and `.png` are also supported. Browse the gallery with the arrows or dots, or swipe the photo on a touch screen. The profile shows the expected folder and filenames when no local photo has been added.
 
-Each `sizes` entry uses the `diameter`, `width`, and `et` fields. Add wheel images through the `image` field; an empty value displays a styled placeholder.
+The overview describes the model range, not a particular engine or trim. The displayed vehicle type and ownership considerations are general editorial guidance; they are not reliability guarantees or vehicle-specific inspection advice. Production dates and exact specifications can vary by generation and market. Confirm the exact model year, engine, equipment, and service history before making purchase or repair decisions.
+
+Repair and common-issue guides are planned for a future update.

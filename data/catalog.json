@@ -1,1295 +1,6 @@
 {
   "brands": [
     {
-      "id": "mercedes-benz",
-      "name": "Mercedes-Benz",
-      "models": [
-        {
-          "id": "a-class",
-          "name": "A-Class",
-          "generations": [
-            {
-              "id": "a-class-w168",
-              "name": "A-Class (W168)",
-              "years": "1997–2004",
-              "wheels": []
-            },
-            {
-              "id": "a-class-w169",
-              "name": "A-Class (W169)",
-              "years": "2004–2012",
-              "wheels": []
-            },
-            {
-              "id": "a-class-w176",
-              "name": "A-Class (W176)",
-              "years": "2012–2018",
-              "wheels": []
-            },
-            {
-              "id": "a-class-w177",
-              "name": "A-Class (W177)",
-              "years": "2018–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "b-class",
-          "name": "B-Class",
-          "generations": [
-            {
-              "id": "b-class-w245",
-              "name": "B-Class (W245)",
-              "years": "2005–2011",
-              "wheels": []
-            },
-            {
-              "id": "b-class-w246",
-              "name": "B-Class (W246)",
-              "years": "2011–2018",
-              "wheels": []
-            },
-            {
-              "id": "b-class-w247",
-              "name": "B-Class (W247)",
-              "years": "2018–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "c-class",
-          "name": "C-Class",
-          "generations": [
-            {
-              "id": "c-class-w202",
-              "name": "C-Class (W202)",
-              "years": "1993–2000",
-              "wheels": []
-            },
-            {
-              "id": "c-class-w203",
-              "name": "C-Class (W203)",
-              "years": "2000–2007",
-              "wheels": []
-            },
-            {
-              "id": "c-class-w204",
-              "name": "C-Class (W204)",
-              "years": "2007–2014",
-              "wheels": []
-            },
-            {
-              "id": "c-class-w205",
-              "name": "C-Class (W205)",
-              "years": "2014–2021",
-              "wheels": []
-            },
-            {
-              "id": "c-class-w206",
-              "name": "C-Class (W206)",
-              "years": "2021–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "e-class",
-          "name": "E-Class",
-          "generations": [
-            {
-              "id": "e-class-w124",
-              "name": "E-Class (W124)",
-              "years": "1984–1995",
-              "wheels": []
-            },
-            {
-              "id": "e-class-w210",
-              "name": "E-Class (W210)",
-              "years": "1995–2002",
-              "wheels": []
-            },
-            {
-              "id": "e-class-w211",
-              "name": "E-Class (W211)",
-              "years": "2002–2009",
-              "wheels": []
-            },
-            {
-              "id": "e-class-w212",
-              "name": "E-Class (W212)",
-              "years": "2009–2016",
-              "wheels": []
-            },
-            {
-              "id": "e-class-w213",
-              "name": "E-Class (W213)",
-              "years": "2016–2023",
-              "wheels": []
-            },
-            {
-              "id": "e-class-w214",
-              "name": "E-Class (W214)",
-              "years": "2023–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "s-class",
-          "name": "S-Class",
-          "generations": [
-            {
-              "id": "s-class-w116",
-              "name": "S-Class (W116)",
-              "years": "1972–1980",
-              "wheels": []
-            },
-            {
-              "id": "s-class-w126",
-              "name": "S-Class (W126)",
-              "years": "1979–1991",
-              "wheels": []
-            },
-            {
-              "id": "s-class-w140",
-              "name": "S-Class (W140)",
-              "years": "1991–1998",
-              "wheels": []
-            },
-            {
-              "id": "s-class-w220",
-              "name": "S-Class (W220)",
-              "years": "1998–2005",
-              "wheels": []
-            },
-            {
-              "id": "s-class-w221",
-              "name": "S-Class (W221)",
-              "years": "2005–2013",
-              "wheels": []
-            },
-            {
-              "id": "s-class-w222",
-              "name": "S-Class (W222)",
-              "years": "2013–2020",
-              "wheels": []
-            },
-            {
-              "id": "s-class-w223",
-              "name": "S-Class (W223)",
-              "years": "2020–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "cla",
-          "name": "CLA",
-          "generations": [
-            {
-              "id": "cla-c117",
-              "name": "CLA (C117)",
-              "years": "2013–2019",
-              "wheels": []
-            },
-            {
-              "id": "cla-c118",
-              "name": "CLA (C118)",
-              "years": "2019–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "cls",
-          "name": "CLS",
-          "generations": [
-            {
-              "id": "cls-c219",
-              "name": "CLS (C219)",
-              "years": "2004–2010",
-              "wheels": []
-            },
-            {
-              "id": "cls-c218",
-              "name": "CLS (C218)",
-              "years": "2010–2018",
-              "wheels": []
-            },
-            {
-              "id": "cls-c257",
-              "name": "CLS (C257)",
-              "years": "2018–2023",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "cle",
-          "name": "CLE",
-          "generations": [
-            {
-              "id": "cle-c236",
-              "name": "CLE (C236)",
-              "years": "2023–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "cl-class",
-          "name": "CL-Class",
-          "generations": [
-            {
-              "id": "cl-class-c140",
-              "name": "CL-Class (C140)",
-              "years": "1992–1999",
-              "wheels": []
-            },
-            {
-              "id": "cl-class-c215",
-              "name": "CL-Class (C215)",
-              "years": "1999–2006",
-              "wheels": []
-            },
-            {
-              "id": "cl-class-c216",
-              "name": "CL-Class (C216)",
-              "years": "2006–2014",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "sl-class",
-          "name": "SL-Class",
-          "generations": [
-            {
-              "id": "sl-class-r107",
-              "name": "SL-Class (R107)",
-              "years": "1971–1989",
-              "wheels": []
-            },
-            {
-              "id": "sl-class-r129",
-              "name": "SL-Class (R129)",
-              "years": "1989–2001",
-              "wheels": []
-            },
-            {
-              "id": "sl-class-r230",
-              "name": "SL-Class (R230)",
-              "years": "2001–2011",
-              "wheels": []
-            },
-            {
-              "id": "sl-class-r231",
-              "name": "SL-Class (R231)",
-              "years": "2012–2020",
-              "wheels": []
-            },
-            {
-              "id": "sl-class-r232",
-              "name": "SL-Class (R232)",
-              "years": "2022–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "slc-slk",
-          "name": "SLC / SLK",
-          "generations": [
-            {
-              "id": "slc-slk-r170",
-              "name": "SLC / SLK (R170)",
-              "years": "1996–2004",
-              "wheels": []
-            },
-            {
-              "id": "slc-slk-r171",
-              "name": "SLC / SLK (R171)",
-              "years": "2004–2011",
-              "wheels": []
-            },
-            {
-              "id": "slc-slk-r172",
-              "name": "SLC / SLK (R172)",
-              "years": "2011–2020",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "sec",
-          "name": "SEC",
-          "generations": [
-            {
-              "id": "sec-c126",
-              "name": "SEC (C126)",
-              "years": "1981–1991",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "sel",
-          "name": "SEL",
-          "generations": [
-            {
-              "id": "sel-w108-w109",
-              "name": "SEL (W108/W109)",
-              "years": "1965–1972",
-              "wheels": []
-            },
-            {
-              "id": "sel-w116",
-              "name": "SEL (W116)",
-              "years": "1972–1980",
-              "wheels": []
-            },
-            {
-              "id": "sel-w126",
-              "name": "SEL (W126)",
-              "years": "1979–1991",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "190-w201",
-          "name": "190 (W201)",
-          "generations": [
-            {
-              "id": "190-w201-w201",
-              "name": "190 (W201)",
-              "years": "1982–1993",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "glc",
-          "name": "GLC",
-          "generations": [
-            {
-              "id": "glc-x253",
-              "name": "GLC (X253)",
-              "years": "2015–2022",
-              "wheels": []
-            },
-            {
-              "id": "glc-x254",
-              "name": "GLC (X254)",
-              "years": "2022–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "gle",
-          "name": "GLE",
-          "generations": [
-            {
-              "id": "gle-w166",
-              "name": "GLE (W166)",
-              "years": "2015–2019",
-              "wheels": []
-            },
-            {
-              "id": "gle-v167",
-              "name": "GLE (V167)",
-              "years": "2019–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "gls",
-          "name": "GLS",
-          "generations": [
-            {
-              "id": "gls-x166",
-              "name": "GLS (X166)",
-              "years": "2015–2019",
-              "wheels": []
-            },
-            {
-              "id": "gls-x167",
-              "name": "GLS (X167)",
-              "years": "2019–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "g-class",
-          "name": "G-Class",
-          "generations": [
-            {
-              "id": "g-class-w460",
-              "name": "G-Class (W460)",
-              "years": "1979–1992",
-              "wheels": []
-            },
-            {
-              "id": "g-class-w461",
-              "name": "G-Class (W461)",
-              "years": "1992–2022",
-              "wheels": []
-            },
-            {
-              "id": "g-class-w463",
-              "name": "G-Class (W463)",
-              "years": "1989–2018",
-              "wheels": []
-            },
-            {
-              "id": "g-class-w463-2018",
-              "name": "G-Class (W463, 2018–present)",
-              "years": "2018–present",
-              "wheels": [
-                {
-                  "id": "g-class-w463-2018-amg-wheel-photo",
-                  "name": "AMG cross-spoke forged wheel",
-                  "style": "Matte black with red rim flange",
-                  "sizes": [],
-                  "oemNumbers": [],
-                  "image": "/images/wheels/mercedes-g-class-amg-wheel-2022.jpg",
-                  "verified": false,
-                  "sources": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ml-class",
-          "name": "ML-Class / M-Class",
-          "generations": [
-            {
-              "id": "ml-class-w163",
-              "name": "M-Class (W163)",
-              "years": "1997–2005",
-              "wheels": []
-            },
-            {
-              "id": "ml-class-w164",
-              "name": "M-Class (W164)",
-              "years": "2005–2011",
-              "wheels": []
-            },
-            {
-              "id": "ml-class-w166",
-              "name": "M-Class (W166)",
-              "years": "2011–2015",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "gl-class",
-          "name": "GL-Class",
-          "generations": [
-            {
-              "id": "gl-class-x164",
-              "name": "GL-Class (X164)",
-              "years": "2006–2012",
-              "wheels": []
-            },
-            {
-              "id": "gl-class-x166",
-              "name": "GL-Class (X166)",
-              "years": "2012–2016",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "glk",
-          "name": "GLK",
-          "generations": [
-            {
-              "id": "glk-x204",
-              "name": "GLK (X204)",
-              "years": "2008–2015",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "amg-gt",
-          "name": "AMG GT",
-          "generations": [
-            {
-              "id": "amg-gt-c190",
-              "name": "AMG GT (C190/R190)",
-              "years": "2014–2022",
-              "wheels": []
-            },
-            {
-              "id": "amg-gt-c192",
-              "name": "AMG GT (C192)",
-              "years": "2023–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "amg-one",
-          "name": "AMG One",
-          "generations": [
-            {
-              "id": "amg-one-c298",
-              "name": "AMG One (C298)",
-              "years": "2022–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "slr-mclaren",
-          "name": "SLR McLaren",
-          "generations": [
-            {
-              "id": "slr-mclaren-c199",
-              "name": "SLR McLaren (C199/R199/Z199)",
-              "years": "2003–2010",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "sls-amg",
-          "name": "SLS AMG",
-          "generations": [
-            {
-              "id": "sls-amg-c197",
-              "name": "SLS AMG (C197/R197)",
-              "years": "2010–2014",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "mercedes-maybach-s-class",
-          "name": "Mercedes-Maybach S-Class",
-          "generations": [
-            {
-              "id": "mercedes-maybach-s-class-x222",
-              "name": "Mercedes-Maybach S-Class (X222)",
-              "years": "2014–2020",
-              "wheels": []
-            },
-            {
-              "id": "mercedes-maybach-s-class-z223",
-              "name": "Mercedes-Maybach S-Class (Z223)",
-              "years": "2021–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "mercedes-maybach-gls",
-          "name": "Mercedes-Maybach GLS",
-          "generations": [
-            {
-              "id": "mercedes-maybach-gls-x167",
-              "name": "Mercedes-Maybach GLS (X167)",
-              "years": "2020–present",
-              "wheels": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bmw",
-      "name": "BMW",
-      "models": [
-        {
-          "id": "1-series",
-          "name": "1 Series",
-          "generations": [
-            { "id": "1-series-f20", "name": "1 Series (F20)", "years": "2011–2019", "wheels": [] },
-            { "id": "1-series-f40", "name": "1 Series (F40)", "years": "2019–2024", "wheels": [] },
-            { "id": "1-series-f70", "name": "1 Series (F70)", "years": "2024–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "2-series-coupe",
-          "name": "2 Series Coupe",
-          "generations": [
-            { "id": "2-series-coupe-f22", "name": "2 Series Coupe (F22)", "years": "2014–2021", "wheels": [] },
-            { "id": "2-series-coupe-g42", "name": "2 Series Coupe (G42)", "years": "2021–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "2-series-gran-coupe",
-          "name": "2 Series Gran Coupe",
-          "generations": [
-            { "id": "2-series-gran-coupe-f44", "name": "2 Series Gran Coupe (F44)", "years": "2019–2024", "wheels": [] },
-            { "id": "2-series-gran-coupe-f74", "name": "2 Series Gran Coupe (F74)", "years": "2024–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "2-series-active-tourer",
-          "name": "2 Series Active Tourer",
-          "generations": [
-            { "id": "2-series-active-tourer-f45", "name": "2 Series Active Tourer (F45)", "years": "2014–2021", "wheels": [] },
-            { "id": "2-series-active-tourer-u06", "name": "2 Series Active Tourer (U06)", "years": "2021–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "3-series",
-          "name": "3 Series",
-          "generations": [
-            { "id": "3-series-e21", "name": "3 Series (E21)", "years": "1975–1983", "wheels": [] },
-            { "id": "3-series-e30", "name": "3 Series (E30)", "years": "1982–1994", "wheels": [] },
-            { "id": "3-series-e36", "name": "3 Series (E36)", "years": "1990–2000", "wheels": [] },
-            { "id": "3-series-e46", "name": "3 Series (E46)", "years": "1997–2006", "wheels": [] },
-            { "id": "3-series-e90", "name": "3 Series (E90/E91/E92/E93)", "years": "2004–2013", "wheels": [] },
-            { "id": "3-series-f30", "name": "3 Series (F30/F31/F34)", "years": "2011–2019", "wheels": [] },
-            { "id": "3-series-g20", "name": "3 Series (G20/G21)", "years": "2018–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "4-series-coupe",
-          "name": "4 Series Coupe",
-          "generations": [
-            { "id": "4-series-coupe-f32", "name": "4 Series Coupe (F32)", "years": "2013–2020", "wheels": [] },
-            { "id": "4-series-coupe-g22", "name": "4 Series Coupe (G22)", "years": "2020–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "4-series-convertible",
-          "name": "4 Series Convertible",
-          "generations": [
-            { "id": "4-series-convertible-f33", "name": "4 Series Convertible (F33)", "years": "2013–2020", "wheels": [] },
-            { "id": "4-series-convertible-g23", "name": "4 Series Convertible (G23)", "years": "2020–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "4-series-gran-coupe",
-          "name": "4 Series Gran Coupe",
-          "generations": [
-            { "id": "4-series-gran-coupe-f36", "name": "4 Series Gran Coupe (F36)", "years": "2014–2020", "wheels": [] },
-            { "id": "4-series-gran-coupe-g26", "name": "4 Series Gran Coupe (G26)", "years": "2021–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "5-series",
-          "name": "5 Series",
-          "generations": [
-            { "id": "5-series-e12", "name": "5 Series (E12)", "years": "1972–1981", "wheels": [] },
-            { "id": "5-series-e28", "name": "5 Series (E28)", "years": "1981–1988", "wheels": [] },
-            { "id": "5-series-e34", "name": "5 Series (E34)", "years": "1988–1996", "wheels": [] },
-            { "id": "5-series-e39", "name": "5 Series (E39)", "years": "1995–2003", "wheels": [] },
-            { "id": "5-series-e60", "name": "5 Series (E60/E61)", "years": "2003–2010", "wheels": [] },
-            { "id": "5-series-f10", "name": "5 Series (F10/F11/F07)", "years": "2009–2017", "wheels": [] },
-            { "id": "5-series-g30", "name": "5 Series (G30/G31)", "years": "2016–2023", "wheels": [] },
-            { "id": "5-series-g60", "name": "5 Series (G60/G61)", "years": "2023–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "6-series",
-          "name": "6 Series",
-          "generations": [
-            { "id": "6-series-e24", "name": "6 Series (E24)", "years": "1976–1989", "wheels": [] },
-            { "id": "6-series-e63", "name": "6 Series (E63/E64)", "years": "2003–2010", "wheels": [] },
-            { "id": "6-series-f12", "name": "6 Series (F12/F13)", "years": "2011–2018", "wheels": [] }
-          ]
-        },
-        {
-          "id": "6-series-gran-turismo",
-          "name": "6 Series Gran Turismo",
-          "generations": [
-            { "id": "6-series-gran-turismo-g32", "name": "6 Series Gran Turismo (G32)", "years": "2017–2023", "wheels": [] }
-          ]
-        },
-        {
-          "id": "7-series",
-          "name": "7 Series",
-          "generations": [
-            { "id": "7-series-e23", "name": "7 Series (E23)", "years": "1977–1986", "wheels": [] },
-            { "id": "7-series-e32", "name": "7 Series (E32)", "years": "1986–1994", "wheels": [] },
-            { "id": "7-series-e38", "name": "7 Series (E38)", "years": "1994–2001", "wheels": [] },
-            { "id": "7-series-e65", "name": "7 Series (E65/E66)", "years": "2001–2008", "wheels": [] },
-            { "id": "7-series-f01", "name": "7 Series (F01/F02)", "years": "2008–2015", "wheels": [] },
-            { "id": "7-series-g11", "name": "7 Series (G11/G12)", "years": "2015–2022", "wheels": [] },
-            { "id": "7-series-g70", "name": "7 Series (G70)", "years": "2022–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "8-series",
-          "name": "8 Series",
-          "generations": [
-            { "id": "8-series-e31", "name": "8 Series (E31)", "years": "1989–1999", "wheels": [] },
-            { "id": "8-series-g15", "name": "8 Series (G14/G15)", "years": "2018–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "8-series-gran-coupe",
-          "name": "8 Series Gran Coupe",
-          "generations": [
-            { "id": "8-series-gran-coupe-g16", "name": "8 Series Gran Coupe (G16)", "years": "2019–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "m2",
-          "name": "M2",
-          "generations": [
-            { "id": "m2-f87", "name": "M2 (F87)", "years": "2015–2021", "wheels": [] },
-            { "id": "m2-g87", "name": "M2 (G87)", "years": "2022–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "m3",
-          "name": "M3",
-          "generations": [
-            { "id": "m3-e30", "name": "M3 (E30)", "years": "1986–1991", "wheels": [] },
-            { "id": "m3-e36", "name": "M3 (E36)", "years": "1992–1999", "wheels": [] },
-            { "id": "m3-e46", "name": "M3 (E46)", "years": "2000–2006", "wheels": [] },
-            { "id": "m3-e90", "name": "M3 (E90/E92/E93)", "years": "2007–2013", "wheels": [] },
-            { "id": "m3-f80", "name": "M3 (F80)", "years": "2014–2018", "wheels": [] },
-            { "id": "m3-g80", "name": "M3 (G80/G81)", "years": "2020–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "m4",
-          "name": "M4",
-          "generations": [
-            { "id": "m4-f82", "name": "M4 (F82/F83)", "years": "2014–2020", "wheels": [] },
-            { "id": "m4-g82", "name": "M4 (G82/G83)", "years": "2020–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "m5",
-          "name": "M5",
-          "generations": [
-            { "id": "m5-e28", "name": "M5 (E28)", "years": "1984–1988", "wheels": [] },
-            { "id": "m5-e34", "name": "M5 (E34)", "years": "1988–1995", "wheels": [] },
-            { "id": "m5-e39", "name": "M5 (E39)", "years": "1998–2003", "wheels": [] },
-            { "id": "m5-e60", "name": "M5 (E60/E61)", "years": "2005–2010", "wheels": [] },
-            { "id": "m5-f10", "name": "M5 (F10)", "years": "2011–2016", "wheels": [] },
-            { "id": "m5-f90", "name": "M5 (F90)", "years": "2017–2023", "wheels": [] },
-            { "id": "m5-g90", "name": "M5 (G90/G99)", "years": "2024–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "m6",
-          "name": "M6",
-          "generations": [
-            { "id": "m6-e24", "name": "M6 (E24)", "years": "1983–1989", "wheels": [] },
-            { "id": "m6-e63", "name": "M6 (E63/E64)", "years": "2005–2010", "wheels": [] },
-            { "id": "m6-f12", "name": "M6 (F06/F12/F13)", "years": "2012–2018", "wheels": [] }
-          ]
-        },
-        {
-          "id": "m8",
-          "name": "M8",
-          "generations": [
-            { "id": "m8-f91", "name": "M8 (F91/F92/F93)", "years": "2019–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "xm",
-          "name": "XM",
-          "generations": [
-            { "id": "xm-g09", "name": "XM (G09)", "years": "2022–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x1",
-          "name": "X1",
-          "generations": [
-            { "id": "x1-e84", "name": "X1 (E84)", "years": "2009–2015", "wheels": [] },
-            { "id": "x1-f48", "name": "X1 (F48)", "years": "2015–2022", "wheels": [] },
-            { "id": "x1-u11", "name": "X1 (U11)", "years": "2022–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x2",
-          "name": "X2",
-          "generations": [
-            { "id": "x2-f39", "name": "X2 (F39)", "years": "2018–2023", "wheels": [] },
-            { "id": "x2-u10", "name": "X2 (U10)", "years": "2023–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x3",
-          "name": "X3",
-          "generations": [
-            { "id": "x3-e83", "name": "X3 (E83)", "years": "2003–2010", "wheels": [] },
-            { "id": "x3-f25", "name": "X3 (F25)", "years": "2010–2017", "wheels": [] },
-            { "id": "x3-g01", "name": "X3 (G01)", "years": "2017–2024", "wheels": [] },
-            { "id": "x3-g45", "name": "X3 (G45)", "years": "2024–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x3-m",
-          "name": "X3 M",
-          "generations": [
-            { "id": "x3-m-f97", "name": "X3 M (F97)", "years": "2019–2024", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x4",
-          "name": "X4",
-          "generations": [
-            { "id": "x4-f26", "name": "X4 (F26)", "years": "2014–2018", "wheels": [] },
-            { "id": "x4-g02", "name": "X4 (G02)", "years": "2018–2025", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x4-m",
-          "name": "X4 M",
-          "generations": [
-            { "id": "x4-m-f98", "name": "X4 M (F98)", "years": "2019–2025", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x5",
-          "name": "X5",
-          "generations": [
-            { "id": "x5-e53", "name": "X5 (E53)", "years": "1999–2006", "wheels": [] },
-            { "id": "x5-e70", "name": "X5 (E70)", "years": "2006–2013", "wheels": [] },
-            { "id": "x5-f15", "name": "X5 (F15)", "years": "2013–2018", "wheels": [] },
-            { "id": "x5-g05", "name": "X5 (G05)", "years": "2018–2026", "wheels": [] },
-            { "id": "x5-g65", "name": "X5 (G65)", "years": "2026–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x5-m",
-          "name": "X5 M",
-          "generations": [
-            { "id": "x5-m-e70", "name": "X5 M (E70)", "years": "2009–2013", "wheels": [] },
-            { "id": "x5-m-f85", "name": "X5 M (F85)", "years": "2014–2018", "wheels": [] },
-            { "id": "x5-m-f95", "name": "X5 M (F95)", "years": "2019–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x6",
-          "name": "X6",
-          "generations": [
-            { "id": "x6-e71", "name": "X6 (E71)", "years": "2008–2014", "wheels": [] },
-            { "id": "x6-f16", "name": "X6 (F16)", "years": "2014–2019", "wheels": [] },
-            { "id": "x6-g06", "name": "X6 (G06)", "years": "2019–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x6-m",
-          "name": "X6 M",
-          "generations": [
-            { "id": "x6-m-e71", "name": "X6 M (E71)", "years": "2009–2014", "wheels": [] },
-            { "id": "x6-m-f86", "name": "X6 M (F86)", "years": "2015–2019", "wheels": [] },
-            { "id": "x6-m-f96", "name": "X6 M (F96)", "years": "2019–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "x7",
-          "name": "X7",
-          "generations": [
-            { "id": "x7-g07", "name": "X7 (G07)", "years": "2018–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "z3",
-          "name": "Z3",
-          "generations": [
-            { "id": "z3-e36-7", "name": "Z3 Roadster (E36/7)", "years": "1995–2002", "wheels": [] },
-            { "id": "z3-e36-8", "name": "Z3 Coupe (E36/8)", "years": "1998–2002", "wheels": [] }
-          ]
-        },
-        {
-          "id": "z3-m",
-          "name": "Z3 M",
-          "generations": [
-            { "id": "z3-m-roadster", "name": "Z3 M Roadster", "years": "1997–2002", "wheels": [] },
-            { "id": "z3-m-coupe", "name": "Z3 M Coupe", "years": "1998–2002", "wheels": [] }
-          ]
-        },
-        {
-          "id": "z4",
-          "name": "Z4",
-          "generations": [
-            { "id": "z4-e85", "name": "Z4 (E85/E86)", "years": "2002–2008", "wheels": [] },
-            { "id": "z4-e89", "name": "Z4 (E89)", "years": "2009–2016", "wheels": [] },
-            { "id": "z4-g29", "name": "Z4 (G29)", "years": "2018–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "z4-m",
-          "name": "Z4 M",
-          "generations": [
-            { "id": "z4-m-e85", "name": "Z4 M Roadster/Coupe (E85/E86)", "years": "2006–2008", "wheels": [] }
-          ]
-        },
-        {
-          "id": "z8",
-          "name": "Z8",
-          "generations": [
-            { "id": "z8-e52", "name": "Z8 (E52)", "years": "2000–2003", "wheels": [] }
-          ]
-        },
-        {
-          "id": "i3",
-          "name": "i3",
-          "generations": [
-            { "id": "i3-i01", "name": "i3 (I01)", "years": "2013–2022", "wheels": [] }
-          ]
-        },
-        {
-          "id": "i4",
-          "name": "i4",
-          "generations": [
-            { "id": "i4-g26", "name": "i4 (G26)", "years": "2021–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "i7",
-          "name": "i7",
-          "generations": [
-            { "id": "i7-g70", "name": "i7 (G70)", "years": "2022–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "ix",
-          "name": "iX",
-          "generations": [
-            { "id": "ix-i20", "name": "iX (I20)", "years": "2021–present", "wheels": [] }
-          ]
-        },
-        {
-          "id": "i8",
-          "name": "i8",
-          "generations": [
-            { "id": "i8-i12", "name": "i8 (I12/I15)", "years": "2014–2020", "wheels": [] }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "skoda",
-      "name": "Škoda",
-      "models": [
-        {
-          "id": "citigo",
-          "name": "Citigo",
-          "generations": [
-            {
-              "id": "citigo-1",
-              "name": "Citigo I",
-              "years": "2011–2020",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "elroq",
-          "name": "Elroq",
-          "generations": [
-            {
-              "id": "elroq-1",
-              "name": "Elroq I",
-              "years": "2024–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "enyaq-coupe-iv",
-          "name": "Enyaq Coupé iV",
-          "generations": [
-            {
-              "id": "enyaq-coupe-iv-1",
-              "name": "Enyaq Coupé iV I",
-              "years": "2022–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "enyaq-iv",
-          "name": "Enyaq iV",
-          "generations": [
-            {
-              "id": "enyaq-iv-1",
-              "name": "Enyaq iV I",
-              "years": "2020–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "fabia",
-          "name": "Fabia",
-          "generations": [
-            {
-              "id": "fabia-i",
-              "name": "Fabia I",
-              "years": "1999–2007",
-              "wheels": []
-            },
-            {
-              "id": "fabia-ii",
-              "name": "Fabia II",
-              "years": "2007–2014",
-              "wheels": []
-            },
-            {
-              "id": "fabia-iii",
-              "name": "Fabia III",
-              "years": "2014–2021",
-              "wheels": []
-            },
-            {
-              "id": "fabia-iv",
-              "name": "Fabia IV",
-              "years": "2021–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "favorit",
-          "name": "Favorit",
-          "generations": [
-            {
-              "id": "favorit-1",
-              "name": "Favorit",
-              "years": "1987–1995",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "felicia",
-          "name": "Felicia",
-          "generations": [
-            {
-              "id": "felicia-1",
-              "name": "Felicia",
-              "years": "1994–2001",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "kamiq",
-          "name": "Kamiq",
-          "generations": [
-            {
-              "id": "kamiq-eu",
-              "name": "Kamiq (Europe)",
-              "years": "2019–present",
-              "wheels": []
-            },
-            {
-              "id": "kamiq-cn",
-              "name": "Kamiq (China)",
-              "years": "2018–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "karoq",
-          "name": "Karoq",
-          "generations": [
-            {
-              "id": "karoq-1",
-              "name": "Karoq I",
-              "years": "2017–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "kodiaq",
-          "name": "Kodiaq",
-          "generations": [
-            {
-              "id": "kodiaq-i",
-              "name": "Kodiaq I",
-              "years": "2016–2024",
-              "wheels": []
-            },
-            {
-              "id": "kodiaq-ii",
-              "name": "Kodiaq II",
-              "years": "2024–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "kushaq",
-          "name": "Kushaq",
-          "generations": [
-            {
-              "id": "kushaq-1",
-              "name": "Kushaq I",
-              "years": "2021–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "kylaq",
-          "name": "Kylaq",
-          "generations": [
-            {
-              "id": "kylaq-1",
-              "name": "Kylaq I",
-              "years": "2024–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "octavia",
-          "name": "Octavia",
-          "generations": [
-            {
-              "id": "octavia-i",
-              "name": "Octavia I",
-              "years": "1996–2010",
-              "wheels": []
-            },
-            {
-              "id": "octavia-ii",
-              "name": "Octavia II",
-              "years": "2004–2013",
-              "wheels": []
-            },
-            {
-              "id": "octavia-iii",
-              "name": "Octavia III",
-              "years": "2012–2020",
-              "wheels": []
-            },
-            {
-              "id": "octavia-iv",
-              "name": "Octavia IV",
-              "years": "2019–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "popular",
-          "name": "Popular",
-          "generations": [
-            {
-              "id": "popular-1",
-              "name": "Popular (various series)",
-              "years": "1934–1946",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "rapid",
-          "name": "Rapid",
-          "generations": [
-            {
-              "id": "rapid-europe",
-              "name": "Rapid (Europe)",
-              "years": "2012–2019",
-              "wheels": []
-            },
-            {
-              "id": "rapid-india",
-              "name": "Rapid (India)",
-              "years": "2011–2021",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "roomster",
-          "name": "Roomster",
-          "generations": [
-            {
-              "id": "roomster-1",
-              "name": "Roomster I",
-              "years": "2006–2015",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "scala",
-          "name": "Scala",
-          "generations": [
-            {
-              "id": "scala-1",
-              "name": "Scala I",
-              "years": "2019–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "slavia",
-          "name": "Slavia",
-          "generations": [
-            {
-              "id": "slavia-india-1",
-              "name": "Slavia I (India)",
-              "years": "2021–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "superb",
-          "name": "Superb",
-          "generations": [
-            {
-              "id": "superb-i",
-              "name": "Superb I",
-              "years": "2001–2008",
-              "wheels": []
-            },
-            {
-              "id": "superb-ii",
-              "name": "Superb II",
-              "years": "2008–2015",
-              "wheels": []
-            },
-            {
-              "id": "superb-iii",
-              "name": "Superb III",
-              "years": "2015–2024",
-              "wheels": []
-            },
-            {
-              "id": "superb-iv",
-              "name": "Superb IV",
-              "years": "2023–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "yeti",
-          "name": "Yeti",
-          "generations": [
-            {
-              "id": "yeti-1",
-              "name": "Yeti I",
-              "years": "2009–2017",
-              "wheels": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "volkswagen",
       "name": "Volkswagen",
       "models": [
@@ -1300,14 +11,12 @@
             {
               "id": "amarok-i",
               "name": "Amarok I",
-              "years": "2010–2022",
-              "wheels": []
+              "years": "2010–2022"
             },
             {
               "id": "amarok-ii",
               "name": "Amarok II",
-              "years": "2022–present",
-              "wheels": []
+              "years": "2022–present"
             }
           ]
         },
@@ -1318,8 +27,7 @@
             {
               "id": "arteon-1",
               "name": "Arteon I",
-              "years": "2017–2024",
-              "wheels": []
+              "years": "2017–2024"
             }
           ]
         },
@@ -1330,14 +38,12 @@
             {
               "id": "atlas-1",
               "name": "Atlas / Teramont I",
-              "years": "2017–2024",
-              "wheels": []
+              "years": "2017–2024"
             },
             {
               "id": "atlas-2",
               "name": "Atlas / Teramont II",
-              "years": "2024–present",
-              "wheels": []
+              "years": "2024–present"
             }
           ]
         },
@@ -1348,20 +54,17 @@
             {
               "id": "beetle-type-1",
               "name": "Original Beetle (Type 1)",
-              "years": "1938–2003 (varies by market)",
-              "wheels": []
+              "years": "1938–2003 (varies by market)"
             },
             {
               "id": "beetle-new",
               "name": "New Beetle",
-              "years": "1997–2010",
-              "wheels": []
+              "years": "1997–2010"
             },
             {
               "id": "beetle-a5",
               "name": "Beetle (A5)",
-              "years": "2011–2019",
-              "wheels": []
+              "years": "2011–2019"
             }
           ]
         },
@@ -1372,8 +75,7 @@
             {
               "id": "bora-1j",
               "name": "Bora (1J)",
-              "years": "1998–2005",
-              "wheels": []
+              "years": "1998–2005"
             }
           ]
         },
@@ -1384,32 +86,27 @@
             {
               "id": "caddy-i",
               "name": "Caddy I",
-              "years": "1979–1995",
-              "wheels": []
+              "years": "1979–1995"
             },
             {
               "id": "caddy-ii",
               "name": "Caddy II",
-              "years": "1995–2004",
-              "wheels": []
+              "years": "1995–2004"
             },
             {
               "id": "caddy-iii",
               "name": "Caddy III",
-              "years": "2004–2015",
-              "wheels": []
+              "years": "2004–2015"
             },
             {
               "id": "caddy-iv",
               "name": "Caddy IV",
-              "years": "2015–2020",
-              "wheels": []
+              "years": "2015–2020"
             },
             {
               "id": "caddy-v",
               "name": "Caddy V",
-              "years": "2020–present",
-              "wheels": []
+              "years": "2020–present"
             }
           ]
         },
@@ -1420,32 +117,27 @@
             {
               "id": "california-t3",
               "name": "California T3",
-              "years": "1988–1992",
-              "wheels": []
+              "years": "1988–1992"
             },
             {
               "id": "california-t4",
               "name": "California T4",
-              "years": "1990–2003",
-              "wheels": []
+              "years": "1990–2003"
             },
             {
               "id": "california-t5",
               "name": "California T5",
-              "years": "2003–2015",
-              "wheels": []
+              "years": "2003–2015"
             },
             {
               "id": "california-t6",
               "name": "California T6 / T6.1",
-              "years": "2015–2024",
-              "wheels": []
+              "years": "2015–2024"
             },
             {
               "id": "california-t7",
               "name": "California T7",
-              "years": "2024–present",
-              "wheels": []
+              "years": "2024–present"
             }
           ]
         },
@@ -1456,32 +148,27 @@
             {
               "id": "caravelle-t3",
               "name": "Caravelle T3",
-              "years": "1979–1992",
-              "wheels": []
+              "years": "1979–1992"
             },
             {
               "id": "caravelle-t4",
               "name": "Caravelle T4",
-              "years": "1990–2003",
-              "wheels": []
+              "years": "1990–2003"
             },
             {
               "id": "caravelle-t5",
               "name": "Caravelle T5",
-              "years": "2003–2015",
-              "wheels": []
+              "years": "2003–2015"
             },
             {
               "id": "caravelle-t6",
               "name": "Caravelle T6 / T6.1",
-              "years": "2015–2024",
-              "wheels": []
+              "years": "2015–2024"
             },
             {
               "id": "caravelle-t7",
               "name": "Caravelle T7",
-              "years": "2024–present",
-              "wheels": []
+              "years": "2024–present"
             }
           ]
         },
@@ -1492,8 +179,7 @@
             {
               "id": "corrado-1",
               "name": "Corrado",
-              "years": "1988–1995",
-              "wheels": []
+              "years": "1988–1995"
             }
           ]
         },
@@ -1504,14 +190,12 @@
             {
               "id": "crafter-i",
               "name": "Crafter I",
-              "years": "2006–2016",
-              "wheels": []
+              "years": "2006–2016"
             },
             {
               "id": "crafter-ii",
               "name": "Crafter II",
-              "years": "2016–present",
-              "wheels": []
+              "years": "2016–present"
             }
           ]
         },
@@ -1522,56 +206,7 @@
             {
               "id": "fox-1",
               "name": "Fox",
-              "years": "2003–2011 (varies by market)",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "gol",
-          "name": "Gol",
-          "generations": [
-            {
-              "id": "gol-g1",
-              "name": "Gol I (G1)",
-              "years": "1980–1994",
-              "wheels": []
-            },
-            {
-              "id": "gol-g2",
-              "name": "Gol II (G2)",
-              "years": "1994–1999",
-              "wheels": []
-            },
-            {
-              "id": "gol-g3",
-              "name": "Gol III (G3)",
-              "years": "1999–2005",
-              "wheels": []
-            },
-            {
-              "id": "gol-g4",
-              "name": "Gol IV (G4)",
-              "years": "2005–2008",
-              "wheels": []
-            },
-            {
-              "id": "gol-g5",
-              "name": "Gol V (G5)",
-              "years": "2008–2012",
-              "wheels": []
-            },
-            {
-              "id": "gol-g6",
-              "name": "Gol VI (G6)",
-              "years": "2012–2016",
-              "wheels": []
-            },
-            {
-              "id": "gol-g7",
-              "name": "Gol VII (G7)",
-              "years": "2016–2023",
-              "wheels": []
+              "years": "2003–2011 (varies by market)"
             }
           ]
         },
@@ -1582,153 +217,42 @@
             {
               "id": "golf-i",
               "name": "Golf I",
-              "years": "1974–1983",
-              "wheels": []
+              "years": "1974–1983"
             },
             {
               "id": "golf-ii",
               "name": "Golf II",
-              "years": "1983–1992",
-              "wheels": []
+              "years": "1983–1992"
             },
             {
               "id": "golf-iii",
               "name": "Golf III",
-              "years": "1991–1997",
-              "wheels": []
+              "years": "1991–1997"
             },
             {
               "id": "golf-iv",
               "name": "Golf IV",
-              "years": "1997–2003",
-              "wheels": []
+              "years": "1997–2003"
             },
             {
               "id": "golf-v",
               "name": "Golf V",
-              "years": "2003–2008",
-              "wheels": [
-                {
-                  "id": "golf-v-demo-denver",
-                  "name": "Denver",
-                  "style": "Original VW design",
-                  "sizes": [],
-                  "oemNumbers": [],
-                  "image": "",
-                  "verified": false,
-                  "sources": []
-                },
-                {
-                  "id": "golf-v-demo-detroit",
-                  "name": "Detroit",
-                  "style": "Original VW design",
-                  "sizes": [],
-                  "oemNumbers": [],
-                  "image": "",
-                  "verified": false,
-                  "sources": []
-                },
-                {
-                  "id": "golf-v-demo-monza",
-                  "name": "Monza",
-                  "style": "Original VW design",
-                  "sizes": [],
-                  "oemNumbers": [],
-                  "image": "",
-                  "verified": false,
-                  "sources": []
-                }
-              ]
+              "years": "2003–2008"
             },
             {
               "id": "golf-vi",
               "name": "Golf VI",
-              "years": "2008–2012",
-              "wheels": []
+              "years": "2008–2012"
             },
             {
               "id": "golf-vii",
               "name": "Golf VII",
-              "years": "2012–2020",
-              "wheels": []
+              "years": "2012–2020"
             },
             {
               "id": "golf-viii",
               "name": "Golf VIII",
-              "years": "2019–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "id-buzz",
-          "name": "ID. Buzz",
-          "generations": [
-            {
-              "id": "id-buzz-1",
-              "name": "ID. Buzz I",
-              "years": "2022–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "id-3",
-          "name": "ID.3",
-          "generations": [
-            {
-              "id": "id-3-1",
-              "name": "ID.3 I",
-              "years": "2019–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "id-4",
-          "name": "ID.4",
-          "generations": [
-            {
-              "id": "id-4-1",
-              "name": "ID.4 I",
-              "years": "2020–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "id-5",
-          "name": "ID.5",
-          "generations": [
-            {
-              "id": "id-5-1",
-              "name": "ID.5 I",
-              "years": "2021–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "id-6",
-          "name": "ID.6",
-          "generations": [
-            {
-              "id": "id-6-1",
-              "name": "ID.6 I (China)",
-              "years": "2021–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "id-7",
-          "name": "ID.7",
-          "generations": [
-            {
-              "id": "id-7-1",
-              "name": "ID.7 I",
-              "years": "2023–present",
-              "wheels": []
+              "years": "2019–present"
             }
           ]
         },
@@ -1739,44 +263,37 @@
             {
               "id": "jetta-mk1",
               "name": "Jetta I",
-              "years": "1979–1984",
-              "wheels": []
+              "years": "1979–1984"
             },
             {
               "id": "jetta-mk2",
               "name": "Jetta II",
-              "years": "1984–1992",
-              "wheels": []
+              "years": "1984–1992"
             },
             {
               "id": "jetta-mk3",
               "name": "Jetta III",
-              "years": "1992–1999",
-              "wheels": []
+              "years": "1992–1999"
             },
             {
               "id": "jetta-mk4",
               "name": "Jetta IV",
-              "years": "1999–2005",
-              "wheels": []
+              "years": "1999–2005"
             },
             {
               "id": "jetta-mk5",
               "name": "Jetta V",
-              "years": "2005–2010",
-              "wheels": []
+              "years": "2005–2010"
             },
             {
               "id": "jetta-mk6",
               "name": "Jetta VI",
-              "years": "2010–2018",
-              "wheels": []
+              "years": "2010–2018"
             },
             {
               "id": "jetta-mk7",
               "name": "Jetta VII",
-              "years": "2018–present",
-              "wheels": []
+              "years": "2018–present"
             }
           ]
         },
@@ -1787,14 +304,12 @@
             {
               "id": "lavida-1",
               "name": "Lavida I",
-              "years": "2008–2018",
-              "wheels": []
+              "years": "2008–2018"
             },
             {
               "id": "lavida-2",
               "name": "Lavida II",
-              "years": "2018–present",
-              "wheels": []
+              "years": "2018–present"
             }
           ]
         },
@@ -1805,14 +320,12 @@
             {
               "id": "lt-i",
               "name": "LT I",
-              "years": "1975–1996",
-              "wheels": []
+              "years": "1975–1996"
             },
             {
               "id": "lt-ii",
               "name": "LT II",
-              "years": "1996–2006",
-              "wheels": []
+              "years": "1996–2006"
             }
           ]
         },
@@ -1823,8 +336,7 @@
             {
               "id": "lupo-1",
               "name": "Lupo",
-              "years": "1998–2005",
-              "wheels": []
+              "years": "1998–2005"
             }
           ]
         },
@@ -1835,26 +347,22 @@
             {
               "id": "magotan-b6",
               "name": "Magotan I (B6)",
-              "years": "2005–2011",
-              "wheels": []
+              "years": "2005–2011"
             },
             {
               "id": "magotan-b7",
               "name": "Magotan II (B7)",
-              "years": "2011–2016",
-              "wheels": []
+              "years": "2011–2016"
             },
             {
               "id": "magotan-b8",
               "name": "Magotan III (B8)",
-              "years": "2016–2024",
-              "wheels": []
+              "years": "2016–2024"
             },
             {
               "id": "magotan-b9",
               "name": "Magotan IV (B9)",
-              "years": "2024–present",
-              "wheels": []
+              "years": "2024–present"
             }
           ]
         },
@@ -1865,32 +373,27 @@
             {
               "id": "multivan-t3",
               "name": "Multivan T3",
-              "years": "1985–1992",
-              "wheels": []
+              "years": "1985–1992"
             },
             {
               "id": "multivan-t4",
               "name": "Multivan T4",
-              "years": "1990–2003",
-              "wheels": []
+              "years": "1990–2003"
             },
             {
               "id": "multivan-t5",
               "name": "Multivan T5",
-              "years": "2003–2015",
-              "wheels": []
+              "years": "2003–2015"
             },
             {
               "id": "multivan-t6",
               "name": "Multivan T6 / T6.1",
-              "years": "2015–2021",
-              "wheels": []
+              "years": "2015–2021"
             },
             {
               "id": "multivan-t7",
               "name": "Multivan T7",
-              "years": "2021–present",
-              "wheels": []
+              "years": "2021–present"
             }
           ]
         },
@@ -1901,68 +404,47 @@
             {
               "id": "passat-b1",
               "name": "Passat B1",
-              "years": "1973–1981",
-              "wheels": []
+              "years": "1973–1981"
             },
             {
               "id": "passat-b2",
               "name": "Passat B2",
-              "years": "1981–1988",
-              "wheels": []
+              "years": "1981–1988"
             },
             {
               "id": "passat-b3",
               "name": "Passat B3",
-              "years": "1988–1993",
-              "wheels": []
+              "years": "1988–1993"
             },
             {
               "id": "passat-b4",
               "name": "Passat B4",
-              "years": "1993–1997",
-              "wheels": []
+              "years": "1993–1997"
             },
             {
               "id": "passat-b5",
               "name": "Passat B5",
-              "years": "1996–2005",
-              "wheels": []
+              "years": "1996–2005"
             },
             {
               "id": "passat-b6",
               "name": "Passat B6",
-              "years": "2005–2010",
-              "wheels": []
+              "years": "2005–2010"
             },
             {
               "id": "passat-b7",
               "name": "Passat B7",
-              "years": "2010–2015",
-              "wheels": []
+              "years": "2010–2015"
             },
             {
               "id": "passat-b8",
               "name": "Passat B8",
-              "years": "2014–2023",
-              "wheels": []
+              "years": "2014–2023"
             },
             {
               "id": "passat-b9",
               "name": "Passat B9",
-              "years": "2023–present",
-              "wheels": []
-            }
-          ]
-        },
-        {
-          "id": "passat-cc",
-          "name": "Passat CC / CC",
-          "generations": [
-            {
-              "id": "passat-cc-1",
-              "name": "Passat CC / CC I",
-              "years": "2008–2017",
-              "wheels": []
+              "years": "2023–present"
             }
           ]
         },
@@ -1973,8 +455,7 @@
             {
               "id": "phaeton-1",
               "name": "Phaeton",
-              "years": "2002–2016",
-              "wheels": []
+              "years": "2002–2016"
             }
           ]
         },
@@ -1985,38 +466,32 @@
             {
               "id": "polo-i",
               "name": "Polo I",
-              "years": "1975–1981",
-              "wheels": []
+              "years": "1975–1981"
             },
             {
               "id": "polo-ii",
               "name": "Polo II",
-              "years": "1981–1994",
-              "wheels": []
+              "years": "1981–1994"
             },
             {
               "id": "polo-6n",
               "name": "Polo III (6N)",
-              "years": "1994–2001",
-              "wheels": []
+              "years": "1994–2001"
             },
             {
               "id": "polo-9n",
               "name": "Polo IV (9N)",
-              "years": "2001–2009",
-              "wheels": []
+              "years": "2001–2009"
             },
             {
               "id": "polo-6r",
               "name": "Polo V (6R)",
-              "years": "2009–2017",
-              "wheels": []
+              "years": "2009–2017"
             },
             {
               "id": "polo-aw",
               "name": "Polo VI (AW)",
-              "years": "2017–present",
-              "wheels": []
+              "years": "2017–present"
             }
           ]
         },
@@ -2027,20 +502,17 @@
             {
               "id": "sagitar-1",
               "name": "Sagitar I",
-              "years": "2006–2012",
-              "wheels": []
+              "years": "2006–2012"
             },
             {
               "id": "sagitar-2",
               "name": "Sagitar II",
-              "years": "2012–2019",
-              "wheels": []
+              "years": "2012–2019"
             },
             {
               "id": "sagitar-3",
               "name": "Sagitar III",
-              "years": "2019–present",
-              "wheels": []
+              "years": "2019–present"
             }
           ]
         },
@@ -2051,20 +523,17 @@
             {
               "id": "scirocco-1",
               "name": "Scirocco I",
-              "years": "1974–1981",
-              "wheels": []
+              "years": "1974–1981"
             },
             {
               "id": "scirocco-2",
               "name": "Scirocco II",
-              "years": "1981–1992",
-              "wheels": []
+              "years": "1981–1992"
             },
             {
               "id": "scirocco-3",
               "name": "Scirocco III",
-              "years": "2008–2017",
-              "wheels": []
+              "years": "2008–2017"
             }
           ]
         },
@@ -2075,8 +544,7 @@
             {
               "id": "t-cross-1",
               "name": "T-Cross I",
-              "years": "2018–present",
-              "wheels": []
+              "years": "2018–present"
             }
           ]
         },
@@ -2087,14 +555,12 @@
             {
               "id": "t-roc-1",
               "name": "T-Roc I",
-              "years": "2017–2025",
-              "wheels": []
+              "years": "2017–2025"
             },
             {
               "id": "t-roc-2",
               "name": "T-Roc II",
-              "years": "2025–present",
-              "wheels": []
+              "years": "2025–present"
             }
           ]
         },
@@ -2105,8 +571,7 @@
             {
               "id": "taigo-1",
               "name": "Taigo I",
-              "years": "2021–present",
-              "wheels": []
+              "years": "2021–present"
             }
           ]
         },
@@ -2117,14 +582,12 @@
             {
               "id": "tayron-china",
               "name": "Tayron I (China)",
-              "years": "2018–present",
-              "wheels": []
+              "years": "2018–present"
             },
             {
               "id": "tayron-global",
               "name": "Tayron (global model)",
-              "years": "2024–present",
-              "wheels": []
+              "years": "2024–present"
             }
           ]
         },
@@ -2135,20 +598,17 @@
             {
               "id": "tiguan-1",
               "name": "Tiguan I",
-              "years": "2007–2016",
-              "wheels": []
+              "years": "2007–2016"
             },
             {
               "id": "tiguan-2",
               "name": "Tiguan II",
-              "years": "2016–2023",
-              "wheels": []
+              "years": "2016–2023"
             },
             {
               "id": "tiguan-3",
               "name": "Tiguan III",
-              "years": "2023–present",
-              "wheels": []
+              "years": "2023–present"
             }
           ]
         },
@@ -2159,20 +619,17 @@
             {
               "id": "touareg-1",
               "name": "Touareg I",
-              "years": "2002–2010",
-              "wheels": []
+              "years": "2002–2010"
             },
             {
               "id": "touareg-2",
               "name": "Touareg II",
-              "years": "2010–2018",
-              "wheels": []
+              "years": "2010–2018"
             },
             {
               "id": "touareg-3",
               "name": "Touareg III",
-              "years": "2018–present",
-              "wheels": []
+              "years": "2018–present"
             }
           ]
         },
@@ -2183,44 +640,37 @@
             {
               "id": "transporter-t1",
               "name": "Transporter T1",
-              "years": "1950–1967",
-              "wheels": []
+              "years": "1950–1967"
             },
             {
               "id": "transporter-t2",
               "name": "Transporter T2",
-              "years": "1967–1979",
-              "wheels": []
+              "years": "1967–1979"
             },
             {
               "id": "transporter-t3",
               "name": "Transporter T3",
-              "years": "1979–1992",
-              "wheels": []
+              "years": "1979–1992"
             },
             {
               "id": "transporter-t4",
               "name": "Transporter T4",
-              "years": "1990–2003",
-              "wheels": []
+              "years": "1990–2003"
             },
             {
               "id": "transporter-t5",
               "name": "Transporter T5",
-              "years": "2003–2015",
-              "wheels": []
+              "years": "2003–2015"
             },
             {
               "id": "transporter-t6",
               "name": "Transporter T6 / T6.1",
-              "years": "2015–2024",
-              "wheels": []
+              "years": "2015–2024"
             },
             {
               "id": "transporter-t7",
               "name": "Transporter T7",
-              "years": "2024–present",
-              "wheels": []
+              "years": "2024–present"
             }
           ]
         },
@@ -2231,8 +681,7 @@
             {
               "id": "up-1",
               "name": "Up!",
-              "years": "2011–2023",
-              "wheels": []
+              "years": "2011–2023"
             }
           ]
         }
